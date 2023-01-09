@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hello! 👋
+
+I'm Rafael Gregori de Souza, a third year undergraduate on Computer Engineering at State University of Campinas.
+
+Currently learning: SQL, Machine Learning
+
+Always practicing problem solving skills by doing [Leetcode](https://leetcode.com/callmeGalo/) and [CSES](https://cses.fi/user/113925) questions
+
 
 <!--
 **RafaelGreg18/RafaelGreg18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
