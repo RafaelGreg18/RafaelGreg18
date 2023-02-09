@@ -4,7 +4,7 @@ I'm Rafael Gregori de Souza, a third year undergraduate on Computer Engineering 
 
 Currently learning: Machine Learning
 
-Always practicing problem solving skills by doing [Leetcode](https://leetcode.com/callmeGalo/) and [CSES](https://cses.fi/user/113925) questions
+Always practicing problem solving skills by solving [Leetcode](https://leetcode.com/callmeGalo/) and [CSES](https://cses.fi/user/113925) questions
 
 
 <!--
