@@ -2,7 +2,7 @@
 
 📢 I'm Rafael Gregori de Souza, a third year undergraduate on Computer Engineering at State University of Campinas.
 
-⚙️ Currently working on a Scientific Initiation about modelling Public Lighting
+⚙️ Currently developing a software to estimate the number of public lighting points for a given city and provide insights into spending in this sector
 
 [Leetcode Account](https://leetcode.com/callmeGalo/)\
 [CSES Account](https://cses.fi/user/113925)\
