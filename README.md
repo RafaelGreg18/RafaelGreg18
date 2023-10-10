@@ -1,10 +1,12 @@
 ### Hello! 👋
 
-I'm Rafael Gregori de Souza, a third year undergraduate on Computer Engineering at State University of Campinas.
+📢 I'm Rafael Gregori de Souza, a third year undergraduate on Computer Engineering at State University of Campinas.
 
-Currently learning: Machine Learning
+⚙️ Currently working on a Scientific Initiation about modelling Public Lighting
 
-Always practicing problem solving skills by solving [Leetcode](https://leetcode.com/callmeGalo/) and [CSES](https://cses.fi/user/113925) questions
+[Leetcode Account](https://leetcode.com/callmeGalo/)\
+[CSES Account](https://cses.fi/user/113925)\
+[Linkedin](https://www.linkedin.com/in/rafael-gregori-de-souza-aa339b218/)
 
 
 <!--
