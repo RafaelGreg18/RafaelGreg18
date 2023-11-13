@@ -5,7 +5,6 @@
 ⚙️ Currently developing a software to estimate the number of public lighting points for a given city and provide insights into spending in this sector
 
 [Leetcode Account](https://leetcode.com/callmeGalo/)\
-[CSES Account](https://cses.fi/user/113925)\
 [Linkedin](https://www.linkedin.com/in/rafael-gregori-de-souza-aa339b218/)
 
 
