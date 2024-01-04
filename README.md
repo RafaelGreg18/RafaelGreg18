@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-📢 I'm Rafael Gregori de Souza, a third year undergraduate on Computer Engineering at State University of Campinas.
+📢 I'm Rafael Gregori de Souza, a fourth year undergraduate on Computer Engineering at State University of Campinas.
 
 ⚙️ Currently developing a software to estimate the number of public lighting points for a given city and provide insights into spending in this sector
 
