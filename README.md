@@ -2,10 +2,9 @@
 
 📢 I'm Rafael Gregori de Souza, a fourth year undergraduate on Computer Engineering at State University of Campinas.
 
-⚙️ Currently developing a software to estimate the number of public lighting points for a given city and provide insights into spending in this sector
+💡 My main interest is Machine Learning/Deep Learning
 
-[Leetcode Account](https://leetcode.com/callmeGalo/)\
-[Linkedin](https://www.linkedin.com/in/rafael-gregori-de-souza-aa339b218/)
+⚙️ Software Developer Intern @ [SiDi](https://www.sidi.org.br/en/)
 
 
 <!--
