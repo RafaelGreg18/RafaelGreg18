@@ -1,10 +1,10 @@
 ### Hello! 👋
 
-📢 I'm Rafael Gregori de Souza, a fourth year undergraduate on Computer Engineering at State University of Campinas;
-
-💡 My main interests are Machine Learning/Deep Learning; Data Engineering;
+📢 I'm Rafael Gregori de Souza, a fifth year undergraduate on Computer Engineering at State University of Campinas;
 
 ⚙️ Software Developer @ [SiDi](https://www.sidi.org.br/en/)
+
+💡 My main interests are Machine Learning/Deep Learning; Data Engineering;
 
 ⚙️ Currently working on my data engineering/deep learning side project, [autotrend](https://github.com/RafaelGreg18/autotrend)
 
