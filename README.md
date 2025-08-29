@@ -1,6 +1,8 @@
 ### Hello! 👋
 
-📢 I'm Rafael Gregori de Souza, a fifth year undergraduate on Computer Engineering at State University of Campinas;
+📢 Pleasure to meet you! I'm Rafael Gregori!
+
+🎓 Undergraduate on Computer Engineering @ State University of Campinas;
 
 ⚙️ Software Developer @ [Incognia](https://www.incognia.com/);
 
